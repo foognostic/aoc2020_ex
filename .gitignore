@@ -24,3 +24,4 @@ aoc2020_exs-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+sample_data/
